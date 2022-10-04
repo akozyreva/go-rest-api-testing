@@ -22,4 +22,4 @@ docker build  -t go-rest-api .
 To run image:
 ```
 docker run -it --rm -v ${PWD}:/rest-api-basics/ go-rest-api 
-```# go-rest-api-testing
+```
